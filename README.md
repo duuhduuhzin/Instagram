@@ -12,4 +12,4 @@ A versão do Bootstrap utilizada no projeto é a v5.3.3 (Dezembro de 2024).
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />          
 ## Deploy ##
-A hospedagem do projeto foi feita no Vercel e está disponível através do <a href="" target="_blank"> Link </a>.
+A hospedagem do projeto foi feita no Vercel e está disponível através do <a href="https://instagram-liart-delta.vercel.app/" target="_blank"> Link </a>.
